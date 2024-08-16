@@ -1,1 +1,1 @@
-This repo contains code for multiplayer tic tac toe game where i used react , node-js and socketio
+A Tic Tac Toe game that leverages Websockets to enable online playing functionality with another user.
